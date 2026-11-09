@@ -1,0 +1,20 @@
+{
+  "slug": "human-factors",
+  "title": "Dental Clinic Human Factors Study",
+  "category": "Ergonomics",
+  "type": "Academic Project",
+  "featured": false,
+  "summary": "Assessed ergonomic and environmental conditions in a dental clinic.",
+  "challenge": "Identify workplace conditions that may affect comfort and musculoskeletal risk.",
+  "approach": "Reviewed working postures, temperature, noise, and practical interventions such as seating, lighting, and micro-breaks.",
+  "tools": [
+    "Ergonomic Assessment",
+    "Workplace Observation",
+    "Risk Identification"
+  ],
+  "outcome": "Developed recommendations for workplace improvements; no measured post-implementation result is claimed.",
+  "learned": "Human-centered design is an essential part of operational performance.",
+  "needsReview": false,
+  "image": "",
+  "published": true
+}

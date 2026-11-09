@@ -1,0 +1,20 @@
+{
+  "slug": "facility-planning",
+  "title": "Coffee Roastery Facility Planning",
+  "category": "Manufacturing",
+  "type": "Academic Project",
+  "featured": true,
+  "summary": "Explored facility arrangement and material flow for a coffee production operation.",
+  "challenge": "Organize operations and movement for multiple product sizes.",
+  "approach": "Applied a structured facility-planning process to the Black Knight case, including 250 g, 500 g, and 1 kg products.",
+  "tools": [
+    "Facility Planning",
+    "Material Flow",
+    "Layout Analysis"
+  ],
+  "outcome": "Prepared a facility-planning study; quantitative improvements should be verified against the original report.",
+  "learned": "Layout decisions influence travel, handling, safety, and operating efficiency.",
+  "needsReview": false,
+  "image": "",
+  "published": true
+}

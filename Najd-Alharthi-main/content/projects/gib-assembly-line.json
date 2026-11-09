@@ -1,0 +1,22 @@
+{
+  "slug": "gib-assembly-line",
+  "title": "Graduation Project — Design of a New GIB Assembly Line Using DMADV",
+  "category": "Manufacturing",
+  "type": "Graduation Project",
+  "featured": true,
+  "summary": "Graduation project focused on designing a proposed in-house Gas-Insulated Busduct (GIB) assembly line using the Lean Six Sigma DMADV methodology.",
+  "challenge": "Explore how an internal GIB assembly line could address capacity, space, and lead-time constraints.",
+  "approach": "Applied Define, Measure, Analyze, Design, and Verify; examined facility layout, material flow, capacity, testing needs, and operational risks.",
+  "tools": [
+    "DMADV",
+    "Facility Layout",
+    "Value Stream Mapping",
+    "Capacity Analysis",
+    "Risk Assessment"
+  ],
+  "outcome": "Proposed project improvements: 64% reduction in lead time, 61% increase in production capacity, and 6% improvement in space utilization. These are graduation-project results, not company-wide verified outcomes.",
+  "learned": "Engineering improvements must align layout, resources, capacity, quality, and execution constraints.",
+  "needsReview": false,
+  "image": "",
+  "published": true
+}

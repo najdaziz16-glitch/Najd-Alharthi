@@ -1,0 +1,39 @@
+{
+  "name": "Najd Alharthi",
+  "headline": "Hi, I'm Najd.",
+  "tagline": "Turning complex processes into smarter systems.",
+  "role": "Industrial Engineer | Process Improvement & Production Planning",
+  "intro": "I explore how data, thoughtful planning, and engineering methods can make manufacturing systems more efficient.",
+  "about_title": "Engineering with purpose.",
+  "about": "I'm an Industrial Engineering graduate from Taif University with a GPA of 3.95/4.00 and an interest in production planning, process improvement, and manufacturing operations.\n\nDuring my internship at Hitachi Energy, I gained practical exposure to material planning, production planning, industrial engineering, and quality. I used Excel to compare SAP and MES data, identify discrepancies, and support planning discussions. I also worked with Power BI.\n\nMy graduation project applied Lean Six Sigma DMADV to the design of a new GIB assembly line. This portfolio brings together my projects, technical knowledge, and ongoing learning.",
+  "journey_intro": "A growing collection of lessons, engineering concepts, and reflections on practical applications.",
+  "email": "najdaziz16@gmail.com",
+  "linkedin": "",
+  "resume": "/media/documents/Najd-Alharthi-CV.pdf",
+  "gpa": "3.95/4.00",
+  "lead_time": "64%",
+  "capacity": "61%",
+  "phone": "+966535705071",
+  "engineering_skills": [
+    "Production Planning & Control",
+    "Material Planning & Inventory Management",
+    "Process Improvement",
+    "Lean Six Sigma",
+    "Time Study & Work Measurement",
+    "Facility Layout & Material Flow",
+    "Quality Control & FMEA",
+    "Supply Chain Management",
+    "Data Analysis & Reporting",
+    "Industrial Systems Simulation",
+    "Risk Assessment & Industrial Safety"
+  ],
+  "engineering_tools": [
+    "Microsoft Excel",
+    "Power BI",
+    "SAP",
+    "Minitab",
+    "Simio",
+    "Dolibarr ERP",
+    "AutoCAD"
+  ]
+}

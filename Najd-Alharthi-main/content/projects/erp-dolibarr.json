@@ -1,0 +1,20 @@
+{
+  "slug": "erp-dolibarr",
+  "title": "ERP Implementation — Tiraz",
+  "category": "Systems",
+  "type": "Academic Project",
+  "featured": true,
+  "summary": "Modeled business processes for a fictional company using Dolibarr ERP.",
+  "challenge": "Understand how business functions share information in an integrated system.",
+  "approach": "Explored HR, sales, procurement, manufacturing, and finance workflows for a B2B furniture business.",
+  "tools": [
+    "Dolibarr ERP",
+    "Process Integration",
+    "Business Systems"
+  ],
+  "outcome": "Demonstrated an academic ERP workflow across multiple business functions.",
+  "learned": "Reliable data flow across departments supports better operational decisions.",
+  "needsReview": false,
+  "image": "",
+  "published": true
+}

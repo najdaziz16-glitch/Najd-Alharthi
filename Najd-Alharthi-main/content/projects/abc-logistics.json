@@ -1,0 +1,20 @@
+{
+  "slug": "abc-logistics",
+  "title": "ABC Logistics Supply Chain Study",
+  "category": "Supply Chain",
+  "type": "Academic Project",
+  "featured": false,
+  "summary": "Explored logistics operations across Makkah, Jeddah, and Taif.",
+  "challenge": "Understand regional supply-chain and distribution decisions.",
+  "approach": "Examined a logistics case involving multiple locations and operational considerations.",
+  "tools": [
+    "Supply Chain Analysis",
+    "Logistics",
+    "Distribution Planning"
+  ],
+  "outcome": "Specific recommendations and metrics await verification against the project report.",
+  "learned": "Logistics performance depends on coordinating locations, flows, and service requirements.",
+  "needsReview": true,
+  "image": "",
+  "published": true
+}

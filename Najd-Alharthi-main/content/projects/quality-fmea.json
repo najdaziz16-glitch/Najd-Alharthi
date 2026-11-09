@@ -1,0 +1,20 @@
+{
+  "slug": "quality-fmea",
+  "title": "Quality Control — FMEA",
+  "category": "Quality",
+  "type": "Academic Study",
+  "featured": false,
+  "summary": "Applied failure mode and effects analysis in a quality context.",
+  "challenge": "Prioritize potential failure modes and their consequences.",
+  "approach": "Used an FMEA framework to structure risk assessment.",
+  "tools": [
+    "FMEA",
+    "Quality Control",
+    "Risk Prioritization"
+  ],
+  "outcome": "Project scope and findings need confirmation from the source materials.",
+  "learned": "Anticipating failure modes supports prevention before defects occur.",
+  "needsReview": true,
+  "image": "",
+  "published": true
+}

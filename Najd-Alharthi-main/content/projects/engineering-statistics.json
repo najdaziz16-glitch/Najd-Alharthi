@@ -1,0 +1,19 @@
+{
+  "slug": "engineering-statistics",
+  "title": "Family Exercise Habits — Statistics",
+  "category": "Analytics",
+  "type": "Academic Study",
+  "featured": false,
+  "summary": "Conducted an academic statistical study related to exercise habits within families.",
+  "challenge": "Translate observations into a structured statistical question.",
+  "approach": "Applied engineering statistics concepts to an exercise-related dataset.",
+  "tools": [
+    "Engineering Statistics",
+    "Data Analysis"
+  ],
+  "outcome": "Dataset, analysis method, and conclusions require verification.",
+  "learned": "Clear data definitions are essential for meaningful conclusions.",
+  "needsReview": true,
+  "image": "",
+  "published": true
+}

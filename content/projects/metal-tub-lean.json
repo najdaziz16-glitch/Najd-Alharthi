@@ -1,0 +1,22 @@
+{
+  "slug": "metal-tub-lean",
+  "title": "Metal Tub — Lean Improvement",
+  "category": "Quality",
+  "type": "Academic Project",
+  "featured": true,
+  "summary": "Analyzed waste and process improvement opportunities in a metal-tub production exercise.",
+  "challenge": "Identify non-value-added activities and practical improvement opportunities.",
+  "approach": "Used value stream mapping, spaghetti diagrams, visual management, 5S, Poka-Yoke, and A3/PDSA thinking.",
+  "tools": [
+    "Lean",
+    "VSM",
+    "5S",
+    "Poka-Yoke",
+    "A3/PDSA"
+  ],
+  "outcome": "Developed improvement proposals; numerical outcomes have not been verified.",
+  "learned": "Visualizing the current state makes improvement opportunities easier to prioritize.",
+  "needsReview": false,
+  "image": "",
+  "published": true
+}

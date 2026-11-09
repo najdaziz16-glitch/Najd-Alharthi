@@ -1,0 +1,21 @@
+{
+  "slug": "industrial-hygiene",
+  "title": "Industrial Hygiene Assessment",
+  "category": "Safety",
+  "type": "Academic Study",
+  "featured": false,
+  "summary": "Studied environmental and occupational exposure factors in university workshops.",
+  "challenge": "Examine how lighting, noise, ventilation, and workplace hazards influence working conditions.",
+  "approach": "Reviewed workshop conditions and relevant occupational hygiene concepts.",
+  "tools": [
+    "Industrial Hygiene",
+    "Noise",
+    "Lighting",
+    "Ventilation"
+  ],
+  "outcome": "Assessment scope and measured results require confirmation from the original report.",
+  "learned": "Exposure assessment links engineering controls with worker wellbeing.",
+  "needsReview": true,
+  "image": "",
+  "published": true
+}

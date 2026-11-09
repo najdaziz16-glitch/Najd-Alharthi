@@ -1,0 +1,20 @@
+{
+  "slug": "industrial-safety",
+  "title": "Manufacturing Plant Safety Program",
+  "category": "Safety",
+  "type": "Academic Project",
+  "featured": false,
+  "summary": "Developed elements of a workplace safety program for a manufacturing environment.",
+  "challenge": "Create a structured approach to common industrial hazards and emergency readiness.",
+  "approach": "Covered PPE, emergency action planning, respiratory protection, confined spaces, and hazard communication.",
+  "tools": [
+    "Safety Program Design",
+    "Hazard Identification",
+    "OSHA Framework"
+  ],
+  "outcome": "Prepared a proposed safety program for an academic manufacturing case.",
+  "learned": "Preventive systems are stronger when responsibilities and procedures are explicit.",
+  "needsReview": false,
+  "image": "",
+  "published": true
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "design-of-experiments",
+  "title": "Caffeine & Blood Pressure — DOE",
+  "category": "Analytics",
+  "type": "Academic Project",
+  "featured": false,
+  "summary": "Used statistical analysis to investigate factors associated with blood pressure.",
+  "challenge": "Evaluate relationships using a structured experimental-analysis approach.",
+  "approach": "Applied two-way ANOVA in an academic study of caffeine and blood pressure.",
+  "tools": [
+    "Two-Way ANOVA",
+    "Design of Experiments",
+    "Statistical Analysis"
+  ],
+  "outcome": "A reported p-value of 0.027 should be checked against the original analysis before external publication.",
+  "learned": "Statistical significance must be interpreted alongside assumptions and study design.",
+  "needsReview": true,
+  "image": "",
+  "published": true
+}

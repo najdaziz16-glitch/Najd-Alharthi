@@ -1,0 +1,20 @@
+{
+  "slug": "coffee-roastery-simulation",
+  "title": "Coffee Roastery Simulation",
+  "category": "Simulation",
+  "type": "Academic Project",
+  "featured": true,
+  "summary": "Modeled operations at Black Knight Coffee Roastery to study bottlenecks and throughput.",
+  "challenge": "Understand how roasting and packaging resources affect flow time.",
+  "approach": "Studied a system with three roasters and two packaging resources; investigated packaging as a bottleneck.",
+  "tools": [
+    "Discrete-Event Simulation",
+    "Bottleneck Analysis",
+    "Process Modeling"
+  ],
+  "outcome": "Project analysis reported a reduction in time in system from 12 hours to 2 hours under an improved scenario.",
+  "learned": "Improving the constraint can matter more than increasing capacity everywhere.",
+  "needsReview": false,
+  "image": "",
+  "published": true
+}

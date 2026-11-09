@@ -115,3 +115,4 @@ content:
         type: text
       - name: published
         type: boolean
+        

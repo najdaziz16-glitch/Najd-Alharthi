@@ -1,0 +1,117 @@
+
+media:
+  input: media
+  output: /media
+
+content:
+  - name: homepage
+    label: Homepage & Skills
+    type: file
+    path: content/site.json
+    format: json
+    operations:
+      delete: false
+    fields:
+      - name: name
+        type: string
+      - name: headline
+        type: string
+      - name: tagline
+        type: string
+      - name: role
+        type: string
+      - name: intro
+        type: text
+      - name: about_title
+        type: string
+      - name: about
+        type: text
+      - name: journey_intro
+        type: text
+      - name: email
+        type: string
+      - name: linkedin
+        type: string
+      - name: resume
+        type: file
+      - name: phone
+        type: string
+      - name: gpa
+        type: string
+      - name: lead_time
+        type: string
+      - name: capacity
+        type: string
+      - name: engineering_skills
+        label: Engineering Skills
+        type: string
+        list: true
+      - name: engineering_tools
+        label: Software & Technical Tools
+        type: string
+        list: true
+
+  - name: projects
+    label: University Projects
+    type: collection
+    path: content/projects
+    format: json
+    filename: "{primary}.json"
+    view:
+      primary: title
+      fields: [title, category, published]
+    fields:
+      - name: slug
+        type: string
+        required: true
+      - name: title
+        type: string
+        required: true
+      - name: category
+        type: string
+      - name: type
+        type: string
+      - name: featured
+        type: boolean
+      - name: summary
+        type: text
+      - name: challenge
+        type: text
+      - name: approach
+        type: text
+      - name: tools
+        type: string
+        list: true
+      - name: outcome
+        type: text
+      - name: learned
+        type: text
+      - name: needsReview
+        label: Needs Review
+        type: boolean
+      - name: image
+        type: image
+      - name: published
+        type: boolean
+
+  - name: articles
+    label: Engineering Journey
+    type: collection
+    path: content/articles
+    format: json
+    filename: "{primary}.json"
+    view:
+      primary: title
+    fields:
+      - name: slug
+        type: string
+        required: true
+      - name: title
+        type: string
+        required: true
+      - name: summary
+        type: text
+      - name: body
+        type: text
+      - name: published
+        type: boolean

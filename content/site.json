@@ -13,5 +13,30 @@
   "gpa": "3.95/4.00",
   "lead_time": "64%",
   "capacity": "61%",
-  "phone": "+966535705071"
+  "phone": "+966535705071",
+  "engineering_skills": [
+    "Production Planning & Control",
+    "Material Planning & Inventory Management",
+    "Process Improvement",
+    "Lean Six Sigma",
+    "Time Study & Work Measurement",
+    "Facility Layout & Material Flow",
+    "Quality Control & FMEA",
+    "Supply Chain Management",
+    "Data Analysis & Reporting",
+    "Industrial Systems Simulation",
+    "Risk Assessment & Industrial Safety"
+  ],
+  "engineering_tools": [
+    "Microsoft Excel",
+    "Power BI",
+    "SAP",
+    "MES",
+    "Minitab",
+    "Simio",
+    "EasyFit",
+    "Dolibarr ERP",
+    "AutoCAD",
+    "Kinovea"
+  ]
 }

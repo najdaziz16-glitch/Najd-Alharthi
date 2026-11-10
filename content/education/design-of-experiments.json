@@ -1,0 +1,13 @@
+{
+  "title": "Design of Experiments",
+  "category": "Statistical Analysis & Experimental Design",
+  "description": "Studied the principles of experimental design and statistical analysis to investigate the effects of different factors on process outcomes and support data-driven decision-making.\n\nKey Topics Covered:\n\nExperimental Design: Planning structured experiments to evaluate the relationships between input factors and response variables.\n\nFactors and Responses: Identifying independent variables, response variables, and factor levels.\n\nAnalysis of Variance (ANOVA): Using statistical methods to evaluate differences between groups and determine the significance of experimental factors.\n\nTwo-Way ANOVA: Examining the effects of two factors on a response variable and evaluating their potential interaction.\n\nHypothesis Testing: Interpreting P-values and statistical significance to draw conclusions from experimental results.\n\nExperimental Data Analysis: Organizing and interpreting experimental data to identify meaningful patterns and relationships.\n\nKnowledge Gained:\n\nDeveloped an understanding of how experimental design and statistical analysis can support process improvement, evaluate factor effects, and improve decision-making.\n\nApplied Two-Way ANOVA in an academic project investigating the relationship between caffeine consumption and blood pressure.",
+  "skills": [
+    "Design of Experiments (DOE)",
+    "Experimental Design",
+    "Analysis of Variance (ANOVA)",
+    "Data-Driven Decision Making",
+    "Statistical Problem Solving"
+  ],
+  "published": true
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Industrial Systems Simulation",
+  "category": "Discrete-Event Simulation & Systems Analysis",
+  "description": "Studied the principles of industrial systems simulation, focusing on modeling, analyzing, and improving manufacturing and service operations.\n\nKey Topics Covered:\n\nSimulation Fundamentals: Understanding simulation concepts and their applications in industrial engineering.\n\nDiscrete-Event Simulation: Modeling systems in which operations and system states change through discrete events.\n\nSimulation Modeling: Developing models that represent processes, resources, queues, and operational activities.\n\nInput Data Analysis: Analyzing process times and statistical distributions to represent system behavior.\n\nQueueing and Bottleneck Analysis: Evaluating waiting times, resource constraints, and process bottlenecks.\n\nPerformance Evaluation: Measuring system performance using throughput, resource utilization, waiting time, and time in system.\n\nScenario Analysis: Comparing alternative operating conditions to identify opportunities for process improvement.\n\nKnowledge Gained:\n\nDeveloped an understanding of how simulation models support operational decision-making, identify system inefficiencies, and evaluate improvement alternatives.\n\nApplied discrete-event simulation using Simio in an academic project involving a coffee roasting and packaging system to analyze bottlenecks and improve process performance.",
+  "skills": [
+    "Discrete-Event Simulation",
+    "Simulation Modeling",
+    "Industrial Systems Analysis",
+    "Simio Simulation Software",
+    "Queueing Systems Analysis",
+    "Bottleneck Identification",
+    "Resource Utilization Analysis",
+    "Waiting Time Analysis",
+    "Simulation-Based Process Improvement",
+    "Performance Evaluation"
+  ],
+  "published": true
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Operations Research",
+  "category": "Operations Research & Optimization",
+  "description": "Studied mathematical optimization techniques used to support decision-making, allocate limited resources, and improve operational efficiency.\n\nKey Topics Covered:\n\nLinear Programming: Mathematical formulation of optimization problems using objective functions, decision variables, and constraints.\n\nSimplex Method: Solving linear programming problems to identify optimal solutions under resource constraints.\n\nTransportation Problems: Developing cost-minimization models to determine efficient allocation and transportation of resources between supply and demand locations.\n\nKnowledge Gained:\n\nDeveloped an understanding of how mathematical models and optimization techniques can support resource allocation, cost reduction, and data-driven decision-making in industrial and operational systems.",
+  "skills": [
+    "Operations Research",
+    "Mathematical Optimization",
+    "Linear Programming",
+    "Simplex Method",
+    "Transportation Models",
+    "Objective Function Formulation",
+    "Decision Variables & Constraints",
+    "Cost Minimization",
+    "Resource Allocation",
+    "Optimization-Based Decision Making"
+  ],
+  "published": true
+}

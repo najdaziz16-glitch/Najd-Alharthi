@@ -1,0 +1,19 @@
+{
+  "title": "Quality Control",
+  "category": "Quality Engineering & Statistical Quality Control",
+  "description": "Studied statistical quality control methods used to evaluate process performance, analyze variation, and support quality improvement decisions.\n\nKey Topics Covered:\n\nConfidence Intervals: Point and interval estimation, confidence intervals for population means, proportions, variance, and standard deviation, and sample size determination.\n\nHypothesis Testing: Null and alternative hypotheses, significance levels, P-values, Z-tests, statistical decision-making, and sample size considerations.\n\nQuality Improvement: Structured problem-solving, root cause identification, corrective actions, and the Plan-Do-Check-Act (PDCA) cycle.\n\nStatistical Process Control: Process stability, control limits, and the distinction between common-cause and assignable-cause variation.\n\nProcess Capability: Evaluation of process performance against specification limits using Cp, Cpk, Pp, and Ppk indices.\n\nKnowledge Gained:\n\nDeveloped an understanding of how statistical analysis and quality improvement methods support process monitoring, variation reduction, and data-driven decisions in manufacturing environments.",
+  "skills": [
+    "Statistical Quality Control",
+    "Confidence Interval Estimation",
+    "Statistical Hypothesis Testing",
+    "P-Value & Significance Level Analysis",
+    "Sample Size Determination",
+    "Sample Size Determination",
+    "Process Stability Analysis",
+    "Process Capability Analysis (Cp, Cpk, Pp, Ppk)",
+    "Specification Limits & Control Limits",
+    "Root Cause Analysis",
+    "Continuous Improvement (PDCA)"
+  ],
+  "published": true
+}

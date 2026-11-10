@@ -32,3 +32,21 @@
     font-size: clamp(2.8rem, 4vw, 4.2rem);
   }
 }
+
+/* Clean static engineering design */
+.hero {
+  background: #ffffff !important;
+}
+
+.engineering-art,
+.engineering-art *,
+.hero::before,
+.hero::after {
+  animation: none !important;
+  transition: none !important;
+}
+
+.engineering-art {
+  transform: none !important;
+  max-width: 520px;
+}

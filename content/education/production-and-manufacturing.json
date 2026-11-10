@@ -1,6 +1,24 @@
 {
-  "title": "Production & Manufacturing",
-  "category": "\tProduction Technology, Production Planning and Control, Computer Aided Manufacturing Systems",
-  "description": "\tProduction Technology, Production Planning and Control, Computer Aided Manufacturing Systems",
+  "title": "Production Planning and Control ",
+  "category": "Production & Operations Management",
+  "description": "Studied the fundamentals of production systems, operations management, and production planning and control, with a focus on coordinating resources, improving operational efficiency, and meeting production requirements.\n\nKey Topics Covered:\n\nProduction Systems: Types of production systems, manufacturing processes, and production planning and control activities.\n\nOperations Management: Resource coordination, production decisions, and value-added versus non-value-added activities.\n\nDemand Forecasting: Qualitative and quantitative forecasting methods, time-series analysis, moving averages, exponential smoothing, regression analysis, and forecast error evaluation.\n\nInventory Management: Inventory classification, ABC analysis, Economic Order Quantity (EOQ), Economic Production Quantity (EPQ), and quantity discount models.\n\nInventory Control: Reorder Point (ROP), Safety Stock, probabilistic demand models, and periodic and continuous inventory review systems.\n\nKnowledge Gained:\n\nDeveloped an understanding of how demand forecasting, inventory management, and production planning work together to support manufacturing operations, balance inventory costs, improve resource utilization, and maintain product availability.",
+  "skills": [
+    "Production Planning & Control",
+    "Production Systems & Manufacturing Processes",
+    "Operations Management",
+    "Demand Forecasting",
+    "Time Series Analysis",
+    "Moving Average & Exponential Smoothing",
+    "Regression Analysis",
+    "Forecast Accuracy & Error Analysis",
+    "Inventory Management & Control",
+    "ABC Inventory Classification",
+    "Economic Order Quantity (EOQ)",
+    "Economic Production Quantity (EPQ)",
+    "Reorder Point (ROP)",
+    "Safety Stock Calculation",
+    "Inventory Review Systems",
+    "Resource Utilization & Waste Reduction"
+  ],
   "published": true
 }

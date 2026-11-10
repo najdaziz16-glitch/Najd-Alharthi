@@ -116,3 +116,31 @@ content:
       - name: published
         type: boolean
         
+
+  - name: education
+    label: Education & Coursework
+    type: collection
+    path: content/education
+    format: json
+    filename: "{primary}.json"
+    view:
+      primary: title
+      fields: [title, category]
+    fields:
+      - name: title
+        label: Course Name
+        type: string
+        required: true
+      - name: category
+        label: Subject Area
+        type: string
+      - name: description
+        label: What I Learned
+        type: text
+      - name: skills
+        label: Skills & Concepts
+        type: string
+        list: true
+      - name: published
+        label: Published
+        type: boolean
